@@ -37,6 +37,7 @@ public class class1 implements interface1 {
 	{
 		class1 obj=new class1();
 		Integer val1,val2,choice;
+		//i have added a comment;
 		Scanner input=new Scanner(System.in);
 		System.out.println("Enter first number");
 		val1=input.nextInt();
